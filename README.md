@@ -1,4 +1,5 @@
 # Sistema ONG Amigo Bicho
+# Aluno: Bruno Dalbosco Rover
 # Apresentação em Vídeo:(https://www.youtube.com/watch?v=sP1ouYP5pZQ)
 📝 Descrição do Projeto
 Sistema web desenvolvido para a ONG Amigo Bicho, facilitando a gestão de animais para adoção, cadastro de adotantes e doações. O projeto atende aos critérios de avaliação da disciplina com funcionalidades completas e documentação adequada.
@@ -42,7 +43,7 @@ Protótipos de interface
 Análise SWOT parcial
 
 # 🛠 Tecnologias Utilizadas
-Front-end: HTML5, CSS3, JavaScript
+Front-end: HTML5, CSS3
 
 Back-end: PHP 7.4+
 
@@ -50,7 +51,7 @@ Banco de Dados: MySQL
 
 Servidor: Apache
 
-#Como Executar
+# Como Executar
 Requisitos:
 
 Servidor web (Apache)
@@ -59,7 +60,7 @@ PHP 7.4+
 
 MySQL 5.7+
 
-#Instalação:
+# Instalação:
 git clone [URL_DO_REPOSITORIO]
 
 # Importe o banco de dados
@@ -78,7 +79,7 @@ Usuário comum:
 
 Senha: 123
 
-#📚 Documentação Adicional
+# 📚 Documentação Adicional
 Relatório Parcial
 
 Diagrama de Casos de Uso
