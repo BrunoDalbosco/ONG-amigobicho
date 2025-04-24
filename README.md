@@ -80,8 +80,6 @@ Usuário comum:
 Senha: 123
 
 # 📚 Documentação Adicional
-Relatório Parcial
-
-Diagrama de Casos de Uso
+Relatório Parcial(https://docs.google.com/document/d/16TqwEBUO8Tpk4HNOhlnwWpmQBJkvDgOsQTWDKwH2mMc/edit?usp=sharing)
 
 Apresentação em Vídeo:(https://www.youtube.com/watch?v=sP1ouYP5pZQ)
