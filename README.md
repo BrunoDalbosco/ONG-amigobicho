@@ -1,9 +1,10 @@
-#Sistema ONG Amigo Bicho
+# Sistema ONG Amigo Bicho
+# Apresentação em Vídeo:(https://www.youtube.com/watch?v=sP1ouYP5pZQ)
 📝 Descrição do Projeto
 Sistema web desenvolvido para a ONG Amigo Bicho, facilitando a gestão de animais para adoção, cadastro de adotantes e doações. O projeto atende aos critérios de avaliação da disciplina com funcionalidades completas e documentação adequada.
 
 ✅ Critérios de Avaliação Atendidos
-#1. Funcionamento do Sistema 
+# 1. Funcionamento do Sistema 
 Cadastro de usuários (comum e administrador)
 
 Autenticação segura com sessões
@@ -16,7 +17,7 @@ Perfil do usuário com histórico de adoções
 
 Responsividade e usabilidade
 
-#2. Evidências de Extensão 
+# 2. Evidências de Extensão 
 Relatório Parcial completo (Ver relatório)
 
 Documentação do código (comentários explicativos)
@@ -27,7 +28,7 @@ Apresentação em vídeo demonstrando todas funcionalidades
 
 Repositório organizado no GitHub
 
-#3. Relatório Parcial (10%)
+# 3. Relatório Parcial (10%)
 Documento completo contendo:
 
 Introdução e objetivos
@@ -40,7 +41,7 @@ Protótipos de interface
 
 Análise SWOT parcial
 
-#🛠 Tecnologias Utilizadas
+# 🛠 Tecnologias Utilizadas
 Front-end: HTML5, CSS3, JavaScript
 
 Back-end: PHP 7.4+
