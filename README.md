@@ -29,8 +29,8 @@ Apresentação em vídeo demonstrando todas funcionalidades
 
 Repositório organizado no GitHub
 
-# 3. Relatório Parcial (10%)
-Documento completo contendo:
+# 3. Relatório Parcial 
+Documento completo contendo:(https://docs.google.com/document/d/16TqwEBUO8Tpk4HNOhlnwWpmQBJkvDgOsQTWDKwH2mMc/edit?usp=sharing)
 
 Introdução e objetivos
 
@@ -79,7 +79,4 @@ Usuário comum:
 
 Senha: 123
 
-# 📚 Documentação Adicional
-Relatório Parcial(https://docs.google.com/document/d/16TqwEBUO8Tpk4HNOhlnwWpmQBJkvDgOsQTWDKwH2mMc/edit?usp=sharing)
 
-Apresentação em Vídeo:(https://www.youtube.com/watch?v=sP1ouYP5pZQ)
